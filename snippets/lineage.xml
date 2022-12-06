@@ -16,6 +16,9 @@
   <project path="external/json-c" name="android_external_json-c" remote="lineage" />
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="lineage" />
 
+  <!-- Frameworks -->
+  <project path="frameworks/minikin" name="android_frameworks_minikin" remote="lineage" />
+
   <!-- Hardware -->
   <project path="hardware/ril" name="android_hardware_ril" remote="lineage" />
   <project path="hardware/nxp/nfc" name="android_hardware_nxp_nfc" remote="lineage" />
