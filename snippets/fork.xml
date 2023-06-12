@@ -44,6 +44,5 @@
   <project path="vendor/lawnicons" name="android_vendor_lawnicons" remote="fork" />
   <project path="vendor/nusantara" name="android_vendor_nusantara" remote="fork" />
   <project path="vendor/qcom/opensource/commonsys/display" name="android_vendor_qcom_opensource_display-commonsys" remote="fork" />
-  <project path="vendor/qcom/opensource/commonsys/system/bt" name="android_vendor_qcom_opensource_system_bt" remote="fork" />
 
 </manifest>
